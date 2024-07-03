@@ -1,8 +1,6 @@
 <a href="https://whitewhale.money/">
   <h1 align="center">
-    <picture>
-      <img alt="White Whale V2" src="https://miro.medium.com/max/1400/1*29OYRJqqddosWtWo-c3TYQ.png">
-    </picture>
+
   </h1>
 </a>
 
